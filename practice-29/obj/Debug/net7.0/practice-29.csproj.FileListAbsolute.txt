@@ -1,0 +1,15 @@
+C:\Users\yuliy\Desktop\dom.zadanie\practika 4\practice-29\bin\Debug\net7.0\practice-29.exe
+C:\Users\yuliy\Desktop\dom.zadanie\practika 4\practice-29\bin\Debug\net7.0\practice-29.deps.json
+C:\Users\yuliy\Desktop\dom.zadanie\practika 4\practice-29\bin\Debug\net7.0\practice-29.runtimeconfig.json
+C:\Users\yuliy\Desktop\dom.zadanie\practika 4\practice-29\bin\Debug\net7.0\practice-29.dll
+C:\Users\yuliy\Desktop\dom.zadanie\practika 4\practice-29\bin\Debug\net7.0\practice-29.pdb
+C:\Users\yuliy\Desktop\dom.zadanie\practika 4\practice-29\obj\Debug\net7.0\practice-29.csproj.AssemblyReference.cache
+C:\Users\yuliy\Desktop\dom.zadanie\practika 4\practice-29\obj\Debug\net7.0\practice-29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuliy\Desktop\dom.zadanie\practika 4\practice-29\obj\Debug\net7.0\practice-29.AssemblyInfoInputs.cache
+C:\Users\yuliy\Desktop\dom.zadanie\practika 4\practice-29\obj\Debug\net7.0\practice-29.AssemblyInfo.cs
+C:\Users\yuliy\Desktop\dom.zadanie\practika 4\practice-29\obj\Debug\net7.0\practice-29.csproj.CoreCompileInputs.cache
+C:\Users\yuliy\Desktop\dom.zadanie\practika 4\practice-29\obj\Debug\net7.0\practice-29.dll
+C:\Users\yuliy\Desktop\dom.zadanie\practika 4\practice-29\obj\Debug\net7.0\refint\practice-29.dll
+C:\Users\yuliy\Desktop\dom.zadanie\practika 4\practice-29\obj\Debug\net7.0\practice-29.pdb
+C:\Users\yuliy\Desktop\dom.zadanie\practika 4\practice-29\obj\Debug\net7.0\practice-29.genruntimeconfig.cache
+C:\Users\yuliy\Desktop\dom.zadanie\practika 4\practice-29\obj\Debug\net7.0\ref\practice-29.dll
